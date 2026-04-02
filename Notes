@@ -1,0 +1,35 @@
+# Task-4 Notes
+
+## Penetration Testing
+Process of testing system security.
+
+Steps:
+- Recon
+- Scanning
+- Exploitation
+- Post-exploitation
+- Reporting
+
+---
+
+## Metasploit
+Tool used to exploit vulnerabilities.
+
+---
+
+## Hydra
+Used for password cracking.
+
+---
+
+## System Hardening
+Improving system security.
+
+Example:
+- Enable firewall
+- Update system
+
+---
+
+## Conclusion
+Understanding attacks helps in building secure systems.
